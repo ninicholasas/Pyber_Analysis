@@ -23,4 +23,8 @@ There is a related spike at the end of February for each city type, but it is ha
 From the given data we could tell that the Urban cities are the ones that has the most revenue, but at the same time has too many drivers compared to the rides. \n
 If we can access the data for the ride length, the profit for ride, expense cost, and if the drivers recieve any salary even though the driver did not give a ride I probably could create a more detailed report.
 
-### 3. Summary
+## 3. Summary
+### Business Recommendations
+1. Since there are too many drivers in the Urban cities I suggest cutting some drivers if there are any maintaining cost to keep drivers.
+2. If there are enough revenue obtained from the Urban cities, I suggest reducing the ride fare for the Suburban and Rural cities, and also increasig the drivers there. There might be a possibility that the reason for the low rides in those areas are the high prices or the lack of drivers or both.
+3. As mentioned in the Conclusion, if we can access the profits per ride and see how much the drivers are making per ride, we could see the monthly income for the drivers for each city type. If we can see a trend that the salary for the Rural and Suburban cities is lower than the Urban cities, it might be possible to increase the drivers in the Rural and Suburban areas by increasing the base income in those areas.
