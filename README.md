@@ -6,6 +6,7 @@ The purpose of this analysis was to generate a visible data report to decision-m
 There were 2 CSV files that we used for the resource. First is a data of the city([city_data.csv](https://github.com/ninicholasas/Pyber_Analysis/blob/main/Resources/city_data.csv))(3 columns x 121 rows) that is consisted from city, driver count, city type. The second one is a data of the rides([ride_data.csv](https://github.com/ninicholasas/Pyber_Analysis/blob/main/Resources/ride_data.csv))(4 columns x 2376 rows) that is consited from city, date , fare, id.
 
 ## 2. Results:
+Here is full code that I used for this analysis.([PyBer_Challenge.ipynb](https://github.com/ninicholasas/Pyber_Analysis/blob/main/PyBer_Challenge.ipynb))
 ### 2.1 Summary Dataframe by City Type
 Using Pandas I have created the dataframe below.
 
